@@ -1,2 +1,2 @@
 # Data-Analysis
-using R and Machine Learning Techniques
+This repository consists of various code smaples using R and Machine Learning Techniques for Data Analysis.
